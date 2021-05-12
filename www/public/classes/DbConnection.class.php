@@ -21,10 +21,10 @@ class DbConnection {
     
     private function __construct() {
            
-        $host = 'localhost';            // '127.0.0.1', 'google.com'
-        $user = 'root';
-        $pass = 'toor';                 // $pass = '';
-        $db = 'test';
+        $host = 'database';            // '127.0.0.1', 'google.com'
+        $user = 'user';
+        $pass = 'user';                 // $pass = '';
+        $db = 'app_db';
 
         // Data Set Name - DB-System spezifisch
         $dsn = "mysql:host=$host;dbname=$db";

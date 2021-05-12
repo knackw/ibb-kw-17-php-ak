@@ -1,4 +1,23 @@
-#IBB PHP - Projektaufgabe - DEMO Shop
+#IBB PHP, Aufbaukurs
+
+Im Rahmen der Weiterbildung werden weitergehende Kenntnisse der Programmiersprache PHP vermittelt. 
+Die Teilnehmer erwerben praktische, anwendungsbereite Fähigkeiten und Kenntnisse in der Programmierung 
+und Entwicklung von Webanwendungen, die mit Datenbanken interagieren. Insbesondere wird die Umsetzung 
+des objektorientierten Ansatzes mit PHP und das Zusammenspiel von MySQL und PHP betrachtet.
+
+- Fortgeschrittene Konzepte
+- Das OOP Konzept von PHP
+- Klassen und Objekte
+- Konstruktoren und Destruktoren
+- Klonen und vererben
+- Zusammenspiel von PHP und dem Datenbankmanagementsystem
+- MySQL
+- Sicherheit
+- Error Handling
+- Exception Handling
+- Bibliotheken
+
+Die SQL Dump Dateien befinden sich im Verzeichnis `"backups"`.
 
 ### PHP
 
