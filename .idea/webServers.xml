@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19dbe999-8c84-47bb-9985-8e9d01541cc8" name="Docker localhost" url="http://localhost">
+        <fileTransfer mountedRoot="C:\www\ibb\ibb-kw-17-php-pj\www\public" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
